@@ -5,8 +5,7 @@
 ### General Analytics Projects
 
 #### [Internal Blog Post Project](/bank)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-Tolulope is the best
+<https://github.com/mberredo/mberredo.github.io/blob/964e95878859466112376d898adaed5631ea8e31/IFood%20Sales%20&%20Trends.twbx>
 
 ---
 
