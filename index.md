@@ -4,7 +4,7 @@
 
 ### General Analytics Projects
 
-#### [Internal Blog Post Project](/bank)
+#### [IFood Project](/bank)
 <https://github.com/mberredo/mberredo.github.io/blob/964e95878859466112376d898adaed5631ea8e31/IFood%20Sales%20&%20Trends.twbx>
 
 ---
