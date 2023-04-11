@@ -6,7 +6,7 @@
 
 ---
 
-#### [IFood Project](https://public.tableau.com/app/profile/melina.berredo/viz/IFoodSalesTrends/IFoodAnalysys)
+#### [IFood Project (The Brazilian Version of Doordash](https://public.tableau.com/app/profile/melina.berredo/viz/IFoodSalesTrends/IFoodAnalysys)
 [<img src="images/Ifood Analytics.png?raw=true"/>](https://public.tableau.com/app/profile/melina.berredo/viz/IFoodSalesTrends/IFoodAnalysys)
 In this Analysis, I was prompted to analyze IFood Data. 
 
