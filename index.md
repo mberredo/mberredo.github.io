@@ -9,7 +9,9 @@
 #### [IFood Project (The Brazilian Version of Doordash)](https://public.tableau.com/app/profile/melina.berredo/viz/IFoodSalesTrends/IFoodAnalysys)
 [<img src="images/Ifood Analytics.png?raw=true"/>](https://public.tableau.com/app/profile/melina.berredo/viz/IFoodSalesTrends/IFoodAnalysys)
 
-Given the success of IFood (The Brazilian version of Doordash) in Brazil and so many good comments from my friends, I was intrigued by why they like IFood so much! I also wondered who is ordering from the platform and what the trends were! In this case study, I analyzed the IFood data from 2018 and here are the key takeaways:
+Given the success of IFood (The Brazilian version of Doordash) in Brazil and so many good comments from my friends, I was intrigued by why they like IFood so much! 
+
+I also wondered who is ordering from the platform and what the trends were! In this case study, I analyzed the IFood data from 2018 and here are the key takeaways:
 
 - 1.24M was spent on IFood in 2018
 - 64% of the spend variance can be explained by the income levels
