@@ -13,7 +13,7 @@ Given the success of IFood (The Brazilian version of Doordash) in Brazil and so 
 
 - 1.24M was spent on IFood in 2018
 - 64% of the spend variance can be explained by the income levels
-- Growth throughout the year was mostly constant at 183 customers per month with November & December being the lowest & January being the highest.
+- Growth throughout the year was mostly constant at 183 customers per month with November & December being the lowest & January being the highest
 - Families with less kids spent considerably more 
 - The Age Group that consumed the most is in the range of 50 to 65 years old
 - The Wine products are the best sellers and the top revenue generator
