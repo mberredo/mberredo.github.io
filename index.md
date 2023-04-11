@@ -9,10 +9,9 @@
 
 ---
 
-#### [External Link Project](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-My final write up for Avery Smith's 21 Days To Data project covering New York City crime data. 
-
+#### [IFood Project](https://public.tableau.com/app/profile/melina.berredo/viz/IFoodSalesTrends/IFoodAnalysys)
+[<img src="images/Ifood Analytics.png?raw=true"/>](https://public.tableau.com/app/profile/melina.berredo/viz/IFoodSalesTrends/IFoodAnalysys)
+In this Analysis, I was prompted to analyze IFood Data. 
 
 ---
 #### [Education Project](https://www.linkedin.com/pulse/massachusetts-education-analysis-samantha-paul/)
