@@ -22,7 +22,7 @@ I also wondered who is ordering from the platform and what the trends were. In t
 
 ---
 #### [Superstore Project](https://public.tableau.com/app/profile/melina.berredo/viz/Superstore_16758010941900/SortingdatabyField)
-[<img src="images/Superstore.png.png?raw=true"/>](https://public.tableau.com/app/profile/melina.berredo/viz/Superstore_16758010941900/SortingdatabyField)
+[<img src="images/Superstore.png?raw=true"/>](https://public.tableau.com/app/profile/melina.berredo/viz/Superstore_16758010941900/SortingdatabyField)
 
 ---
 
