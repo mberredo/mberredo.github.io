@@ -21,7 +21,7 @@ I also wondered who is ordering from the platform and what the trends were. In t
 - The Wine products are the best sellers and the top revenue generator
 
 ---
-#### [Education Project](https://www.linkedin.com/pulse/massachusetts-education-analysis-samantha-paul/)
+#### [Superstore Project](https://public.tableau.com/app/profile/melina.berredo/viz/Superstore_16758010941900/SortingdatabyField)
 [<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
 
 
