@@ -24,7 +24,9 @@ I also wondered who is ordering from the platform and what the trends were. In t
 #### [Superstore Project](https://public.tableau.com/app/profile/melina.berredo/viz/Superstore_16758010941900/SortingdatabyField)
 [<img src="images/Superstore.png?raw=true"/>](https://public.tableau.com/app/profile/melina.berredo/viz/Superstore_16758010941900/SortingdatabyField)
 
----
+In this case study, I performed analysis on a fictional store that is the equivalent of Office Depot. The products sold consist of office supplies, office furniture and technology. The main considerations were:
+
+- 
 
 ### Category Name 2
 
