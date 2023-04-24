@@ -26,7 +26,14 @@ I also wondered who is ordering from the platform and what the trends were. In t
 
 In this case study, I performed analysis on a fictional store that is the equivalent of Office Depot. The products sold consist of office supplies, office furniture and technology. The main considerations were:
 
-- 
+---
+
+#### [2021-22 NBA Player Stats]([https://public.tableau.com/app/profile/melina.berredo/viz/Superstore_16758010941900/SortingdatabyField](https://public.tableau.com/views/2021-22NBAPlayerStats/2021-22NBAPlayerStats?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link))
+[<img src="images/Superstore.png?raw=true"/>](https://public.tableau.com/views/2021-22NBAPlayerStats/2021-22NBAPlayerStats?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link])
+
+In this case study, I performed analysis on a fictional store that is the equivalent of Office Depot. The products sold consist of office supplies, office furniture and technology. The main considerations were:
+
+
 
 ### Category Name 2
 
