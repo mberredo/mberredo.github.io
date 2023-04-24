@@ -29,21 +29,10 @@ In this case study, I performed analysis on a fictional store that is the equiva
 ---
 
 #### [2021-22 NBA Player Stats]([https://public.tableau.com/app/profile/melina.berredo/viz/Superstore_16758010941900/SortingdatabyField](https://public.tableau.com/views/2021-22NBAPlayerStats/2021-22NBAPlayerStats?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link))
-[<img src="images/Superstore.png?raw=true"/>](https://public.tableau.com/views/2021-22NBAPlayerStats/2021-22NBAPlayerStats?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link])
-
-In this case study, I performed analysis on a fictional store that is the equivalent of Office Depot. The products sold consist of office supplies, office furniture and technology. The main considerations were:
+[<img src="images/Ifood Analytics (1).png?raw=true"/>](https://public.tableau.com/views/2021-22NBAPlayerStats/2021-22NBAPlayerStats?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link])
 
 
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
 
 
 
